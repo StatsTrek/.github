@@ -1,1 +1,1 @@
-![Stats Trek Logo](./logo.jpg)
+![Stats Trek Logo](https://github.com/StatsTrek/.github/blob/main/profile/logo.jpg)
